@@ -2,7 +2,7 @@
 My configuration files for the terminal and such 
 
 ## Setup 
-Install [JetBrains Mono Nerd font](https://www.nerdfonts.com/font-downloads)
+Install [JetBrains Mono Nerd font](https://www.nerdfonts.com/font-downloads) | or change it in the alacritty.toml
 
 Dependingg on weather you're installing this on windows or a unix like system you need to modify the alacritty.toml 
 
