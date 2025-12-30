@@ -6,5 +6,6 @@ After you installed alacritty through [the alacritty website](https://alacritty.
 
 copy the alacritty folder to-
     %APPDATA%\alacritty -> *Windows*
+    
     ~/.config/alacritty -> *macOS / Linux*
    
