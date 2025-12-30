@@ -12,10 +12,6 @@ Dependingg on weather you're installing this on windows or a unix like system yo
 
 feel free to explore and change the theme too
 
-
-general.import = ["C:/Users/adamzzz/AppData/Roaming/alacritty/themes/themes/catppuccin_frappe.toml"]
-
-
 After you installed alacritty through [the alacritty website](https://alacritty.org/)
 
 copy the alacritty folder to-
