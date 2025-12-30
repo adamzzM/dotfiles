@@ -5,7 +5,8 @@ My configuration files for the terminal and such
 After you installed alacritty through [the alacritty website](https://alacritty.org/)
 
 copy the alacritty folder to-
-    %APPDATA%\alacritty -> *Windows*
+
+    *Windows* -> %APPDATA%\alacritty
     
-    ~/.config/alacritty -> *macOS / Linux*
+    *macOS/Linux* -> ~/.config/alacritty 
    
