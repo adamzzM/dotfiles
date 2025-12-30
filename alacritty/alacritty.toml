@@ -1,6 +1,7 @@
-#import = ["~/.config/alacritty/catppuccin_frappe.toml"]
-import = ["~/.config/alacritty/themes/themes/catppuccin_frappe.toml"]
-live_config_reload = true
+#general.import = ["~/.config/alacritty/themes/themes/catppuccin_frappe.toml"] # uncomment if on unix 
+general.import = ["C:/Users/adamzzz/AppData/Roaming/alacritty/themes/themes/catppuccin_frappe.toml"] # uncomment if on windows and replace username
+
+general.live_config_reload = true
 [bell]
 animation = "Linear"
 color = "#b59b9c"
@@ -11,7 +12,7 @@ blinking = "On"
 shape = "underline"
 
 [font]
-size = 20 
+size = 14
 
 [font.bold]
 family = "JetBrainsMono Nerd Font"
@@ -48,18 +49,18 @@ semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
 decorations = "Buttonless"
 dynamic_padding = false
 dynamic_title = false
-opacity = 0.8 
+opacity = 0.95
 startup_mode = "Windowed"
 blur = true 
 
-[window.dimensions]
-columns = 150
-lines = 45
+#[window.dimensions]
+#columns = 150
+#lines = 45
 
 [window.padding]
 x = 0
 y = 0
 
-[window.position]
-x = 2500
-y = 700
+#[window.position]
+#x = 2500
+#y = 700
