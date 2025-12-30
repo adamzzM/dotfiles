@@ -8,7 +8,7 @@ Dependingg on weather you're installing this on windows or a unix like system yo
 
 `#import = ["~/.config/alacritty/themes/themes/catppuccin_frappe.toml"] # uncomment if on unix`
 
-`#import = "${ALACRITTY_CONFIG_DIR}/themes/themes/catppuccin_frappe.toml"  # uncomment if on unix `
+`general.import = ["C:/Users/adamzzz/AppData/Roaming/alacritty/themes/themes/catppuccin_frappe.toml"] # uncomment if on windows and replace username`
 
 feel free to explore and change the theme too
 
